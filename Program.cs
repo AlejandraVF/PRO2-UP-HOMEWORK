@@ -1,26 +1,17 @@
-//EJERCICIO 1 
+/*EJERCICIO 1 Encontrar el máximo o el mínimo y mostrarlo en la consola de un array de enteros */
 class Program
 {
     static void Main()
     {
-        // Ejemplo de array de enteros
-        int[] numeros = { 7, 3, 9, 1, 6, 4, 5 };
-
+        int[] numeros = { 7, 37, 9, 10, 6, 4, 25 };
         MostrarMaxMinArrayEnteros(numeros);
     }
 
     public static void MostrarMaxMinArrayEnteros(int[] array)
     {
-        if (array == null || array.Length == 0)
-        {
-            Console.WriteLine("El array está vacío o es nulo.");
-            return;
-        }
-
         int maximo = array[0];
         int minimo = array[0];
 
-        // Encontrar el máximo y el mínimo
         for (int i = 1; i < array.Length; i++)
         {
             if (array[i] > maximo)
@@ -34,8 +25,7 @@ class Program
             }
         }
 
-        // Mostrar resultados en la consola
-        Console.WriteLine($"Máximo: {maximo}");
-        Console.WriteLine($"Mínimo: {minimo}");
+        Console.WriteLine($"El máximo es: {maximo}");
+        Console.WriteLine($"El mínimo es: {minimo}");
     }
 }
