@@ -1,0 +1,14 @@
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\bin\Debug\net7.0\PRO2-UP-HOMEWORK.exe
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\bin\Debug\net7.0\PRO2-UP-HOMEWORK.deps.json
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\bin\Debug\net7.0\PRO2-UP-HOMEWORK.runtimeconfig.json
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\bin\Debug\net7.0\PRO2-UP-HOMEWORK.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\bin\Debug\net7.0\PRO2-UP-HOMEWORK.pdb
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.AssemblyInfo.cs
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\refint\PRO2-UP-HOMEWORK.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.pdb
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\PRO2-UP-HOMEWORK.genruntimeconfig.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\obj\Debug\net7.0\ref\PRO2-UP-HOMEWORK.dll
