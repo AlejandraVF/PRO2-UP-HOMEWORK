@@ -1,12 +1,21 @@
-class Program
+namespace HOMEWORK
 {
-    static void Main() //ejercicio 1
+
+    public class Program
+
     {
-        int[] numeros = { 5, 2, 8, 1, 9, 4, 3 };
+        //EJERCICIO 1
+        static void Main()
+        {
+            // Ejemplo de array de enteros
+            int[] numeros = { 15, 2, 8, 10, 9, 4, 37 };
 
-        var resultado = ArrayEnteros.EncontrarMaxMin(numeros);
+            // Llamada al algoritmo desde otro archivo
+            int resultadoSuma = Entero.CalcularSuma(numeros);
 
-        Console.WriteLine($"Máximo: {resultado.maximo}");
-        Console.WriteLine($"Mínimo: {resultado.minimo}");
+            // Mostrar resultado en la consola
+            Console.WriteLine($"Suma: {resultadoSuma}");
+        }
+
     }
 }
