@@ -2,7 +2,7 @@ class Program
 {
     static void Main()
     {
-        ArrayEntero arrayEnteroA = new ArrayEntero(5);
+        /*ArrayEntero arrayEnteroA = new ArrayEntero(5);
         arrayEnteroA.Elementos[0] = 3;
         arrayEnteroA.Elementos[1] = 10;
         arrayEnteroA.Elementos[2] = 20;
@@ -47,6 +47,6 @@ class Program
         Console.WriteLine($"Diferencia: {string.Join(", ", arrayCadenaA.Diferencia(arrayCadenaB))}");
         Console.WriteLine($"---------------------------------");
         Console.WriteLine($"---------------------------------");
-        arrayCadenaA.Invertir();
+        arrayCadenaA.Invertir();*/
     }
 }

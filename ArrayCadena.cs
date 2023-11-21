@@ -1,4 +1,4 @@
-public class ArrayCadena
+/*public class ArrayCadena
 {
     public string[] Elementos { get; set; }
 
@@ -61,4 +61,4 @@ public class ArrayCadena
         }
         C.MmostrarArray();
     }
-}
+}*/
