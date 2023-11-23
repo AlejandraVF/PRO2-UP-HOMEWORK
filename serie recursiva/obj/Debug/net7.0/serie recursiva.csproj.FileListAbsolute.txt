@@ -1,0 +1,14 @@
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\bin\Debug\net7.0\serie recursiva.exe
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\bin\Debug\net7.0\serie recursiva.deps.json
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\bin\Debug\net7.0\serie recursiva.runtimeconfig.json
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\bin\Debug\net7.0\serie recursiva.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\bin\Debug\net7.0\serie recursiva.pdb
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.AssemblyInfoInputs.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.AssemblyInfo.cs
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\refint\serie recursiva.dll
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.pdb
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\serie recursiva.genruntimeconfig.cache
+C:\Users\Alejandra\Documents\Documentos\CLASES CUMBRE\PROGRAMACION II\github\PRO2-UP-HOMEWORK\serie recursiva\obj\Debug\net7.0\ref\serie recursiva.dll
